@@ -1,0 +1,16 @@
+{
+  "name": "ticket-form-bot",
+  "version": "1.0.0",
+  "description": "Discord.js v14 ile tasarlanan formlu destek botu.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Wyntine",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.15.10",
+    "discord.js": "^14.8.0",
+    "wio.db": "^4.0.22"
+  }
+}

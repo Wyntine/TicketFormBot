@@ -1,0 +1,9 @@
+# Removing personal files
+
+config.json
+db/servers.json
+
+# Removing extra files
+
+node_modules/
+package-lock.json
